@@ -15,3 +15,8 @@ func defer_call() {
 
 	panic("触发异常")
 }
+
+// panic
+// defer3
+// defer2
+// defer1

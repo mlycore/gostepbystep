@@ -16,3 +16,5 @@ func main() {
 		panic(value)
 	}
 }
+
+// uncertain execution sequence

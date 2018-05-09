@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 func main() {
+	//i: 10, j: 0-9
 	runtime.GOMAXPROCS(1)
 	// runtime.GOMAXPROCS(2)
 	wg := sync.WaitGroup{}

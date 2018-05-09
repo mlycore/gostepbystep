@@ -24,3 +24,6 @@ func main() {
 	t := Teacher{}
 	t.ShowA()
 }
+
+// showA
+// showB

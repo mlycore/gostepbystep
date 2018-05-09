@@ -27,3 +27,5 @@ func pase_student() {
 func main() {
 	pase_student()
 }
+
+// the address of stu
