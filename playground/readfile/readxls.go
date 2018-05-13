@@ -13,8 +13,8 @@ func main() {
 		return
 	}
 	// Get value from cell by given worksheet name and axis.
-	cell := xlsx.GetCellValue("Sheet1", "B2")
-	fmt.Println(cell)
+	//cell := xlsx.GetCellValue("工作表1", "B2")
+	//fmt.Println(cell)
 	// Get all the rows in the Sheet1.
 	rows := xlsx.GetRows("工作表1")
 	for _, row := range rows {
